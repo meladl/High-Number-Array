@@ -1,7 +1,3 @@
-//Mohamed Eladl
-//ID:1203261
-//CSCI 260
-
 class HighArray{
    private long[] a;                 
    private int nElems;               
